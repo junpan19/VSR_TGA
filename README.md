@@ -5,7 +5,7 @@
 
 The *official* implementation for the [Video Super-resolution with Temporal Group Attention] which is accepted by [CVPR-2020].
 
-![framework](figs/framework.PNG)
+![framework](figs/TGA.PNG)
 
 ### Train
 We utilize 8 Nvidia Tesla V100 GPUs for training.
