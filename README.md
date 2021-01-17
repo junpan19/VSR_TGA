@@ -3,7 +3,7 @@
 
 # Video Super-resolution with Temporal Group Attention (TGA)
 
-The *official* implementation for the [Video Super-resolution with Temporal Group Attention] which is accepted by [CVPR-2020].
+The *official* source code (partially cleaned) for the [Video Super-resolution with Temporal Group Attention] which is accepted by [CVPR-2020].
 
 ![framework](figs/TGA.PNG)
 
