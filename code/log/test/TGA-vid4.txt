@@ -1,0 +1,580 @@
+Model size: 26.92357M
+===> TGA model has been initialized
+===> load pretrained model
+===> pretrained model is load
+===> Loading test Datasets
+===> DataLoading Finished
+//home/ma-user/work/data/Vid4/calendar/042.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/calendar/043.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/calendar/044.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/calendar/042.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/calendar/-02.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/calendar/-01.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/calendar/000.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/calendar/-01.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/calendar/000.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/calendar/042.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/calendar/043.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/calendar/000.png is not found, using reference lr frame to pad
+===> Timer: 0.6886 sec.
+===> Processing: 1 || Timer: 1.2805 sec.
+PSNR: 24.008431 dB, 	SSIM: 0.811504
+===> Timer: 0.2678 sec.
+===> Processing: 2 || Timer: 0.4366 sec.
+PSNR: 24.335939 dB, 	SSIM: 0.824773
+===> Timer: 0.2670 sec.
+===> Processing: 3 || Timer: 0.4319 sec.
+PSNR: 24.458779 dB, 	SSIM: 0.829489
+===> Timer: 0.2674 sec.
+===> Processing: 4 || Timer: 0.4224 sec.
+PSNR: 24.677829 dB, 	SSIM: 0.835244
+===> Timer: 0.2672 sec.
+===> Processing: 5 || Timer: 0.4221 sec.
+PSNR: 24.806466 dB, 	SSIM: 0.837024
+===> Timer: 0.2670 sec.
+===> Processing: 6 || Timer: 0.4224 sec.
+PSNR: 24.732841 dB, 	SSIM: 0.834525
+===> Timer: 0.2670 sec.
+===> Processing: 7 || Timer: 0.4200 sec.
+PSNR: 24.574225 dB, 	SSIM: 0.830592
+===> Timer: 0.2669 sec.
+===> Processing: 8 || Timer: 0.4201 sec.
+PSNR: 24.614941 dB, 	SSIM: 0.831154
+===> Timer: 0.2672 sec.
+===> Processing: 9 || Timer: 0.4209 sec.
+PSNR: 24.655713 dB, 	SSIM: 0.831619
+===> Timer: 0.2669 sec.
+===> Processing: 10 || Timer: 0.4194 sec.
+PSNR: 24.650787 dB, 	SSIM: 0.831043
+===> Timer: 0.2667 sec.
+===> Processing: 11 || Timer: 0.4368 sec.
+PSNR: 24.666471 dB, 	SSIM: 0.831053
+===> Timer: 0.2670 sec.
+===> Processing: 12 || Timer: 0.4232 sec.
+PSNR: 24.625533 dB, 	SSIM: 0.830671
+===> Timer: 0.2668 sec.
+===> Processing: 13 || Timer: 0.4203 sec.
+PSNR: 24.666567 dB, 	SSIM: 0.831760
+===> Timer: 0.2668 sec.
+===> Processing: 14 || Timer: 0.4190 sec.
+PSNR: 24.748856 dB, 	SSIM: 0.833568
+===> Timer: 0.2671 sec.
+===> Processing: 15 || Timer: 0.4206 sec.
+PSNR: 24.741880 dB, 	SSIM: 0.832978
+===> Timer: 0.2671 sec.
+===> Processing: 16 || Timer: 0.4212 sec.
+PSNR: 24.748316 dB, 	SSIM: 0.832498
+===> Timer: 0.2672 sec.
+===> Processing: 17 || Timer: 0.4208 sec.
+PSNR: 24.866323 dB, 	SSIM: 0.835950
+===> Timer: 0.2670 sec.
+===> Processing: 18 || Timer: 0.4217 sec.
+PSNR: 24.759013 dB, 	SSIM: 0.833699
+===> Timer: 0.2666 sec.
+===> Processing: 19 || Timer: 0.4229 sec.
+PSNR: 24.703397 dB, 	SSIM: 0.833226
+===> Timer: 0.2677 sec.
+===> Processing: 20 || Timer: 0.4170 sec.
+PSNR: 24.664185 dB, 	SSIM: 0.832496
+===> Timer: 0.2667 sec.
+===> Processing: 21 || Timer: 0.4164 sec.
+PSNR: 24.627932 dB, 	SSIM: 0.831749
+===> Timer: 0.2672 sec.
+===> Processing: 22 || Timer: 0.4197 sec.
+PSNR: 24.495191 dB, 	SSIM: 0.829557
+===> Timer: 0.2666 sec.
+===> Processing: 23 || Timer: 0.4206 sec.
+PSNR: 24.347102 dB, 	SSIM: 0.825955
+===> Timer: 0.2674 sec.
+===> Processing: 24 || Timer: 0.4269 sec.
+PSNR: 24.468412 dB, 	SSIM: 0.829223
+===> Timer: 0.2668 sec.
+===> Processing: 25 || Timer: 0.4209 sec.
+PSNR: 24.601052 dB, 	SSIM: 0.831086
+===> Timer: 0.2674 sec.
+===> Processing: 26 || Timer: 0.4267 sec.
+PSNR: 24.493271 dB, 	SSIM: 0.829797
+===> Timer: 0.2663 sec.
+===> Processing: 27 || Timer: 0.4211 sec.
+PSNR: 24.398663 dB, 	SSIM: 0.828072
+===> Timer: 0.2666 sec.
+===> Processing: 28 || Timer: 0.4220 sec.
+PSNR: 24.412387 dB, 	SSIM: 0.827970
+===> Timer: 0.2669 sec.
+===> Processing: 29 || Timer: 0.4242 sec.
+PSNR: 24.427909 dB, 	SSIM: 0.829805
+===> Timer: 0.2675 sec.
+===> Processing: 30 || Timer: 0.4271 sec.
+PSNR: 24.416512 dB, 	SSIM: 0.829694
+===> Timer: 0.2669 sec.
+===> Processing: 31 || Timer: 0.4211 sec.
+PSNR: 24.497081 dB, 	SSIM: 0.831495
+===> Timer: 0.2674 sec.
+===> Processing: 32 || Timer: 0.4224 sec.
+PSNR: 24.479044 dB, 	SSIM: 0.831238
+===> Timer: 0.2670 sec.
+===> Processing: 33 || Timer: 0.4214 sec.
+PSNR: 24.412118 dB, 	SSIM: 0.829966
+===> Timer: 0.2668 sec.
+===> Processing: 34 || Timer: 0.4233 sec.
+PSNR: 24.386103 dB, 	SSIM: 0.828472
+===> Timer: 0.2668 sec.
+===> Processing: 35 || Timer: 0.4201 sec.
+PSNR: 24.346476 dB, 	SSIM: 0.827664
+===> Timer: 0.2671 sec.
+===> Processing: 36 || Timer: 0.4206 sec.
+PSNR: 24.331650 dB, 	SSIM: 0.826976
+===> Timer: 0.2666 sec.
+===> Processing: 37 || Timer: 0.4200 sec.
+PSNR: 24.432336 dB, 	SSIM: 0.828315
+===> Timer: 0.2676 sec.
+===> Processing: 38 || Timer: 0.4190 sec.
+PSNR: 24.442453 dB, 	SSIM: 0.827757
+===> Timer: 0.2675 sec.
+===> Processing: 39 || Timer: 0.4135 sec.
+PSNR: 24.306636 dB, 	SSIM: 0.824172
+===> Timer: 0.2672 sec.
+===> Processing: 40 || Timer: 0.4205 sec.
+PSNR: 24.128085 dB, 	SSIM: 0.817180
+===> Timer: 0.2672 sec.
+===> Processing: 41 || Timer: 0.4156 sec.
+PSNR: 23.749376 dB, 	SSIM: 0.801437
+===>calendar PSNR = 24.509909291768775
+===>calendar SSIM = 0.8290840486887304
+===> DataLoading Finished
+//home/ma-user/work/data/Vid4/city/-02.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/city/-01.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/city/000.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/city/035.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/city/036.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/city/000.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/city/-01.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/city/000.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/city/035.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/city/036.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/city/037.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/city/035.png is not found, using reference lr frame to pad
+===> Timer: 0.3117 sec.
+===> Processing: 1 || Timer: 0.6135 sec.
+PSNR: 27.492340 dB, 	SSIM: 0.806299
+===> Timer: 0.2630 sec.
+===> Processing: 2 || Timer: 0.4162 sec.
+PSNR: 28.392654 dB, 	SSIM: 0.827791
+===> Timer: 0.2633 sec.
+===> Processing: 3 || Timer: 0.4172 sec.
+PSNR: 28.910842 dB, 	SSIM: 0.841208
+===> Timer: 0.2634 sec.
+===> Processing: 4 || Timer: 0.4122 sec.
+PSNR: 29.257524 dB, 	SSIM: 0.855247
+===> Timer: 0.2628 sec.
+===> Processing: 5 || Timer: 0.4136 sec.
+PSNR: 29.114515 dB, 	SSIM: 0.855907
+===> Timer: 0.2629 sec.
+===> Processing: 6 || Timer: 0.4123 sec.
+PSNR: 28.940622 dB, 	SSIM: 0.851481
+===> Timer: 0.2632 sec.
+===> Processing: 7 || Timer: 0.4135 sec.
+PSNR: 29.321632 dB, 	SSIM: 0.856730
+===> Timer: 0.2630 sec.
+===> Processing: 8 || Timer: 0.4007 sec.
+PSNR: 29.325284 dB, 	SSIM: 0.855844
+===> Timer: 0.2631 sec.
+===> Processing: 9 || Timer: 0.4024 sec.
+PSNR: 29.150409 dB, 	SSIM: 0.854884
+===> Timer: 0.2628 sec.
+===> Processing: 10 || Timer: 0.4018 sec.
+PSNR: 28.631859 dB, 	SSIM: 0.847151
+===> Timer: 0.2632 sec.
+===> Processing: 11 || Timer: 0.4115 sec.
+PSNR: 28.182282 dB, 	SSIM: 0.836289
+===> Timer: 0.2628 sec.
+===> Processing: 12 || Timer: 0.4046 sec.
+PSNR: 28.410833 dB, 	SSIM: 0.838343
+===> Timer: 0.2630 sec.
+===> Processing: 13 || Timer: 0.4077 sec.
+PSNR: 28.228860 dB, 	SSIM: 0.834717
+===> Timer: 0.2632 sec.
+===> Processing: 14 || Timer: 0.4127 sec.
+PSNR: 27.925058 dB, 	SSIM: 0.830153
+===> Timer: 0.2630 sec.
+===> Processing: 15 || Timer: 0.4137 sec.
+PSNR: 27.742578 dB, 	SSIM: 0.825154
+===> Timer: 0.2629 sec.
+===> Processing: 16 || Timer: 0.4109 sec.
+PSNR: 27.582279 dB, 	SSIM: 0.817168
+===> Timer: 0.2625 sec.
+===> Processing: 17 || Timer: 0.4011 sec.
+PSNR: 27.481577 dB, 	SSIM: 0.814496
+===> Timer: 0.2630 sec.
+===> Processing: 18 || Timer: 0.4065 sec.
+PSNR: 27.339142 dB, 	SSIM: 0.809541
+===> Timer: 0.2633 sec.
+===> Processing: 19 || Timer: 0.4051 sec.
+PSNR: 27.680499 dB, 	SSIM: 0.822509
+===> Timer: 0.2631 sec.
+===> Processing: 20 || Timer: 0.4122 sec.
+PSNR: 27.867748 dB, 	SSIM: 0.825033
+===> Timer: 0.2629 sec.
+===> Processing: 21 || Timer: 0.4108 sec.
+PSNR: 27.893653 dB, 	SSIM: 0.825402
+===> Timer: 0.2628 sec.
+===> Processing: 22 || Timer: 0.4066 sec.
+PSNR: 27.989615 dB, 	SSIM: 0.832812
+===> Timer: 0.2629 sec.
+===> Processing: 23 || Timer: 0.4118 sec.
+PSNR: 28.239327 dB, 	SSIM: 0.834849
+===> Timer: 0.2630 sec.
+===> Processing: 24 || Timer: 0.4107 sec.
+PSNR: 29.084516 dB, 	SSIM: 0.850760
+===> Timer: 0.2626 sec.
+===> Processing: 25 || Timer: 0.4072 sec.
+PSNR: 29.258480 dB, 	SSIM: 0.856517
+===> Timer: 0.2634 sec.
+===> Processing: 26 || Timer: 0.4106 sec.
+PSNR: 29.183909 dB, 	SSIM: 0.860689
+===> Timer: 0.2630 sec.
+===> Processing: 27 || Timer: 0.4065 sec.
+PSNR: 28.990583 dB, 	SSIM: 0.861036
+===> Timer: 0.2632 sec.
+===> Processing: 28 || Timer: 0.4121 sec.
+PSNR: 29.351398 dB, 	SSIM: 0.871250
+===> Timer: 0.2623 sec.
+===> Processing: 29 || Timer: 0.4115 sec.
+PSNR: 29.663276 dB, 	SSIM: 0.876458
+===> Timer: 0.2634 sec.
+===> Processing: 30 || Timer: 0.4126 sec.
+PSNR: 29.154711 dB, 	SSIM: 0.867575
+===> Timer: 0.2633 sec.
+===> Processing: 31 || Timer: 0.4131 sec.
+PSNR: 28.756391 dB, 	SSIM: 0.862466
+===> Timer: 0.2629 sec.
+===> Processing: 32 || Timer: 0.4142 sec.
+PSNR: 28.363761 dB, 	SSIM: 0.852307
+===> Timer: 0.2636 sec.
+===> Processing: 33 || Timer: 0.4081 sec.
+PSNR: 28.308914 dB, 	SSIM: 0.846377
+===> Timer: 0.2627 sec.
+===> Processing: 34 || Timer: 0.4154 sec.
+PSNR: 27.809209 dB, 	SSIM: 0.824648
+===>city PSNR = 28.500773003603435
+===>city SSIM = 0.842032115698881
+===> DataLoading Finished
+//home/ma-user/work/data/Vid4/foliage/-01.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/foliage/000.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/foliage/000.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/foliage/-02.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/foliage/-01.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/foliage/000.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/foliage/050.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/foliage/051.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/foliage/052.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/foliage/050.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/foliage/050.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/foliage/051.png is not found, using reference lr frame to pad
+===> Timer: 0.2735 sec.
+===> Processing: 1 || Timer: 1.2763 sec.
+PSNR: 27.043749 dB, 	SSIM: 0.796485
+===> Timer: 0.8883 sec.
+===> Processing: 2 || Timer: 1.4400 sec.
+PSNR: 27.356975 dB, 	SSIM: 0.809837
+===> Timer: 0.2235 sec.
+===> Processing: 3 || Timer: 0.3553 sec.
+PSNR: 27.282730 dB, 	SSIM: 0.810905
+===> Timer: 0.2233 sec.
+===> Processing: 4 || Timer: 0.3396 sec.
+PSNR: 27.495175 dB, 	SSIM: 0.818016
+===> Timer: 0.2232 sec.
+===> Processing: 5 || Timer: 0.3459 sec.
+PSNR: 27.342131 dB, 	SSIM: 0.811095
+===> Timer: 0.2230 sec.
+===> Processing: 6 || Timer: 0.3361 sec.
+PSNR: 26.920727 dB, 	SSIM: 0.794181
+===> Timer: 0.2240 sec.
+===> Processing: 7 || Timer: 0.3425 sec.
+PSNR: 26.780364 dB, 	SSIM: 0.787569
+===> Timer: 0.2233 sec.
+===> Processing: 8 || Timer: 0.3451 sec.
+PSNR: 26.557693 dB, 	SSIM: 0.776525
+===> Timer: 0.2234 sec.
+===> Processing: 9 || Timer: 0.3421 sec.
+PSNR: 26.425981 dB, 	SSIM: 0.771248
+===> Timer: 0.2232 sec.
+===> Processing: 10 || Timer: 0.3462 sec.
+PSNR: 27.052462 dB, 	SSIM: 0.797938
+===> Timer: 0.2234 sec.
+===> Processing: 11 || Timer: 0.3443 sec.
+PSNR: 26.956220 dB, 	SSIM: 0.794334
+===> Timer: 0.2235 sec.
+===> Processing: 12 || Timer: 0.3462 sec.
+PSNR: 26.801426 dB, 	SSIM: 0.789873
+===> Timer: 0.2238 sec.
+===> Processing: 13 || Timer: 0.3375 sec.
+PSNR: 26.901166 dB, 	SSIM: 0.794240
+===> Timer: 0.2232 sec.
+===> Processing: 14 || Timer: 0.3360 sec.
+PSNR: 26.733045 dB, 	SSIM: 0.786558
+===> Timer: 0.2252 sec.
+===> Processing: 15 || Timer: 0.3421 sec.
+PSNR: 26.560091 dB, 	SSIM: 0.780715
+===> Timer: 0.2234 sec.
+===> Processing: 16 || Timer: 0.3373 sec.
+PSNR: 26.480340 dB, 	SSIM: 0.776770
+===> Timer: 0.2229 sec.
+===> Processing: 17 || Timer: 0.3404 sec.
+PSNR: 26.438833 dB, 	SSIM: 0.773641
+===> Timer: 0.2239 sec.
+===> Processing: 18 || Timer: 0.3470 sec.
+PSNR: 26.366141 dB, 	SSIM: 0.770605
+===> Timer: 0.2232 sec.
+===> Processing: 19 || Timer: 0.3380 sec.
+PSNR: 26.563566 dB, 	SSIM: 0.775296
+===> Timer: 0.2233 sec.
+===> Processing: 20 || Timer: 0.3360 sec.
+PSNR: 26.516184 dB, 	SSIM: 0.774785
+===> Timer: 0.2225 sec.
+===> Processing: 21 || Timer: 0.3375 sec.
+PSNR: 26.442258 dB, 	SSIM: 0.770216
+===> Timer: 0.2232 sec.
+===> Processing: 22 || Timer: 0.3369 sec.
+PSNR: 26.568311 dB, 	SSIM: 0.774258
+===> Timer: 0.2233 sec.
+===> Processing: 23 || Timer: 0.3405 sec.
+PSNR: 26.540619 dB, 	SSIM: 0.773145
+===> Timer: 0.2233 sec.
+===> Processing: 24 || Timer: 0.3393 sec.
+PSNR: 26.377232 dB, 	SSIM: 0.767210
+===> Timer: 0.2234 sec.
+===> Processing: 25 || Timer: 0.3323 sec.
+PSNR: 26.588926 dB, 	SSIM: 0.776856
+===> Timer: 0.2232 sec.
+===> Processing: 26 || Timer: 0.3328 sec.
+PSNR: 26.517611 dB, 	SSIM: 0.774525
+===> Timer: 0.2233 sec.
+===> Processing: 27 || Timer: 0.3363 sec.
+PSNR: 26.407096 dB, 	SSIM: 0.770858
+===> Timer: 0.2235 sec.
+===> Processing: 28 || Timer: 0.3331 sec.
+PSNR: 26.651292 dB, 	SSIM: 0.781122
+===> Timer: 0.2233 sec.
+===> Processing: 29 || Timer: 0.3363 sec.
+PSNR: 26.595328 dB, 	SSIM: 0.780625
+===> Timer: 0.2229 sec.
+===> Processing: 30 || Timer: 0.3377 sec.
+PSNR: 26.477299 dB, 	SSIM: 0.776771
+===> Timer: 0.2232 sec.
+===> Processing: 31 || Timer: 0.3425 sec.
+PSNR: 26.712093 dB, 	SSIM: 0.783390
+===> Timer: 0.2233 sec.
+===> Processing: 32 || Timer: 0.3412 sec.
+PSNR: 26.557361 dB, 	SSIM: 0.778465
+===> Timer: 0.2244 sec.
+===> Processing: 33 || Timer: 0.3388 sec.
+PSNR: 26.469515 dB, 	SSIM: 0.774974
+===> Timer: 0.2232 sec.
+===> Processing: 34 || Timer: 0.3374 sec.
+PSNR: 26.519095 dB, 	SSIM: 0.774442
+===> Timer: 0.2232 sec.
+===> Processing: 35 || Timer: 0.3368 sec.
+PSNR: 26.430111 dB, 	SSIM: 0.770352
+===> Timer: 0.2234 sec.
+===> Processing: 36 || Timer: 0.3448 sec.
+PSNR: 26.393464 dB, 	SSIM: 0.769630
+===> Timer: 0.2234 sec.
+===> Processing: 37 || Timer: 0.3414 sec.
+PSNR: 26.669150 dB, 	SSIM: 0.780534
+===> Timer: 0.2230 sec.
+===> Processing: 38 || Timer: 0.3439 sec.
+PSNR: 26.527393 dB, 	SSIM: 0.773670
+===> Timer: 0.2231 sec.
+===> Processing: 39 || Timer: 0.3422 sec.
+PSNR: 26.479203 dB, 	SSIM: 0.772790
+===> Timer: 0.2235 sec.
+===> Processing: 40 || Timer: 0.3414 sec.
+PSNR: 26.818750 dB, 	SSIM: 0.785547
+===> Timer: 0.2233 sec.
+===> Processing: 41 || Timer: 0.3428 sec.
+PSNR: 26.473861 dB, 	SSIM: 0.774599
+===> Timer: 0.2234 sec.
+===> Processing: 42 || Timer: 0.3439 sec.
+PSNR: 26.423599 dB, 	SSIM: 0.773711
+===> Timer: 0.2231 sec.
+===> Processing: 43 || Timer: 0.3421 sec.
+PSNR: 26.349929 dB, 	SSIM: 0.773509
+===> Timer: 0.2231 sec.
+===> Processing: 44 || Timer: 0.3440 sec.
+PSNR: 26.184532 dB, 	SSIM: 0.766466
+===> Timer: 0.2231 sec.
+===> Processing: 45 || Timer: 0.3453 sec.
+PSNR: 26.096315 dB, 	SSIM: 0.762822
+===> Timer: 0.2234 sec.
+===> Processing: 46 || Timer: 0.3424 sec.
+PSNR: 26.250488 dB, 	SSIM: 0.767991
+===> Timer: 0.2236 sec.
+===> Processing: 47 || Timer: 0.3431 sec.
+PSNR: 26.004754 dB, 	SSIM: 0.758180
+===> Timer: 0.2234 sec.
+===> Processing: 48 || Timer: 0.3440 sec.
+PSNR: 26.045500 dB, 	SSIM: 0.758477
+===> Timer: 0.2231 sec.
+===> Processing: 49 || Timer: 0.3470 sec.
+PSNR: 25.971772 dB, 	SSIM: 0.752916
+===>foliage PSNR = 26.59424195269397
+===>foliage SSIM = 0.7793606130125473
+===> DataLoading Finished
+//home/ma-user/work/data/Vid4/walk/-02.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/walk/-01.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/walk/000.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/walk/-01.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/walk/000.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/walk/000.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/walk/048.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/walk/049.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/walk/048.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/walk/049.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/walk/050.png is not found, using reference lr frame to pad
+//home/ma-user/work/data/Vid4/walk/048.png is not found, using reference lr frame to pad
+===> Timer: 0.6983 sec.
+===> Processing: 1 || Timer: 2.6996 sec.
+PSNR: 30.006164 dB, 	SSIM: 0.902579
+===> Timer: 0.2964 sec.
+===> Processing: 2 || Timer: 0.7335 sec.
+PSNR: 30.757910 dB, 	SSIM: 0.912797
+===> Timer: 0.2229 sec.
+===> Processing: 3 || Timer: 0.3524 sec.
+PSNR: 30.904694 dB, 	SSIM: 0.915552
+===> Timer: 0.2232 sec.
+===> Processing: 4 || Timer: 0.3468 sec.
+PSNR: 30.955392 dB, 	SSIM: 0.915106
+===> Timer: 0.2233 sec.
+===> Processing: 5 || Timer: 0.3502 sec.
+PSNR: 30.915587 dB, 	SSIM: 0.913680
+===> Timer: 0.2231 sec.
+===> Processing: 6 || Timer: 0.3474 sec.
+PSNR: 30.836324 dB, 	SSIM: 0.908438
+===> Timer: 0.2237 sec.
+===> Processing: 7 || Timer: 0.3433 sec.
+PSNR: 30.649453 dB, 	SSIM: 0.904600
+===> Timer: 0.2236 sec.
+===> Processing: 8 || Timer: 0.3475 sec.
+PSNR: 30.754248 dB, 	SSIM: 0.906343
+===> Timer: 0.2235 sec.
+===> Processing: 9 || Timer: 0.3432 sec.
+PSNR: 30.719495 dB, 	SSIM: 0.905339
+===> Timer: 0.2233 sec.
+===> Processing: 10 || Timer: 0.3436 sec.
+PSNR: 30.498588 dB, 	SSIM: 0.904138
+===> Timer: 0.2232 sec.
+===> Processing: 11 || Timer: 0.3444 sec.
+PSNR: 30.870349 dB, 	SSIM: 0.910821
+===> Timer: 0.2234 sec.
+===> Processing: 12 || Timer: 0.3428 sec.
+PSNR: 30.781011 dB, 	SSIM: 0.908557
+===> Timer: 0.2228 sec.
+===> Processing: 13 || Timer: 0.3400 sec.
+PSNR: 30.571621 dB, 	SSIM: 0.905565
+===> Timer: 0.2230 sec.
+===> Processing: 14 || Timer: 0.3463 sec.
+PSNR: 30.738337 dB, 	SSIM: 0.908320
+===> Timer: 0.2242 sec.
+===> Processing: 15 || Timer: 0.3420 sec.
+PSNR: 30.757773 dB, 	SSIM: 0.908987
+===> Timer: 0.2232 sec.
+===> Processing: 16 || Timer: 0.3415 sec.
+PSNR: 30.604205 dB, 	SSIM: 0.907821
+===> Timer: 0.2233 sec.
+===> Processing: 17 || Timer: 0.3409 sec.
+PSNR: 30.793828 dB, 	SSIM: 0.911699
+===> Timer: 0.2233 sec.
+===> Processing: 18 || Timer: 0.3428 sec.
+PSNR: 30.789389 dB, 	SSIM: 0.911140
+===> Timer: 0.2233 sec.
+===> Processing: 19 || Timer: 0.3442 sec.
+PSNR: 30.654062 dB, 	SSIM: 0.908271
+===> Timer: 0.2228 sec.
+===> Processing: 20 || Timer: 0.3425 sec.
+PSNR: 30.807998 dB, 	SSIM: 0.911776
+===> Timer: 0.2235 sec.
+===> Processing: 21 || Timer: 0.3434 sec.
+PSNR: 30.825455 dB, 	SSIM: 0.910599
+===> Timer: 0.2234 sec.
+===> Processing: 22 || Timer: 0.3469 sec.
+PSNR: 30.674455 dB, 	SSIM: 0.908474
+===> Timer: 0.2234 sec.
+===> Processing: 23 || Timer: 0.3419 sec.
+PSNR: 30.852666 dB, 	SSIM: 0.911366
+===> Timer: 0.2232 sec.
+===> Processing: 24 || Timer: 0.3449 sec.
+PSNR: 30.764075 dB, 	SSIM: 0.913185
+===> Timer: 0.2233 sec.
+===> Processing: 25 || Timer: 0.3421 sec.
+PSNR: 30.705751 dB, 	SSIM: 0.913850
+===> Timer: 0.2235 sec.
+===> Processing: 26 || Timer: 0.3497 sec.
+PSNR: 31.008840 dB, 	SSIM: 0.921255
+===> Timer: 0.2232 sec.
+===> Processing: 27 || Timer: 0.3422 sec.
+PSNR: 31.089079 dB, 	SSIM: 0.922073
+===> Timer: 0.2236 sec.
+===> Processing: 28 || Timer: 0.3429 sec.
+PSNR: 30.913685 dB, 	SSIM: 0.919023
+===> Timer: 0.2230 sec.
+===> Processing: 29 || Timer: 0.3409 sec.
+PSNR: 31.067181 dB, 	SSIM: 0.921985
+===> Timer: 0.2228 sec.
+===> Processing: 30 || Timer: 0.3412 sec.
+PSNR: 30.968559 dB, 	SSIM: 0.921055
+===> Timer: 0.2232 sec.
+===> Processing: 31 || Timer: 0.3433 sec.
+PSNR: 30.752749 dB, 	SSIM: 0.918157
+===> Timer: 0.2231 sec.
+===> Processing: 32 || Timer: 0.3456 sec.
+PSNR: 30.968977 dB, 	SSIM: 0.922216
+===> Timer: 0.2239 sec.
+===> Processing: 33 || Timer: 0.3445 sec.
+PSNR: 31.055740 dB, 	SSIM: 0.923083
+===> Timer: 0.2233 sec.
+===> Processing: 34 || Timer: 0.3420 sec.
+PSNR: 31.037783 dB, 	SSIM: 0.921665
+===> Timer: 0.2233 sec.
+===> Processing: 35 || Timer: 0.3419 sec.
+PSNR: 31.226414 dB, 	SSIM: 0.925093
+===> Timer: 0.2227 sec.
+===> Processing: 36 || Timer: 0.3459 sec.
+PSNR: 31.399536 dB, 	SSIM: 0.925406
+===> Timer: 0.2235 sec.
+===> Processing: 37 || Timer: 0.3405 sec.
+PSNR: 31.326303 dB, 	SSIM: 0.924428
+===> Timer: 0.2233 sec.
+===> Processing: 38 || Timer: 0.3442 sec.
+PSNR: 31.494230 dB, 	SSIM: 0.928480
+===> Timer: 0.2233 sec.
+===> Processing: 39 || Timer: 0.3420 sec.
+PSNR: 31.482511 dB, 	SSIM: 0.930203
+===> Timer: 0.2233 sec.
+===> Processing: 40 || Timer: 0.3424 sec.
+PSNR: 31.391343 dB, 	SSIM: 0.929843
+===> Timer: 0.2235 sec.
+===> Processing: 41 || Timer: 0.3452 sec.
+PSNR: 31.530446 dB, 	SSIM: 0.932803
+===> Timer: 0.2234 sec.
+===> Processing: 42 || Timer: 0.3420 sec.
+PSNR: 31.604037 dB, 	SSIM: 0.932641
+===> Timer: 0.2234 sec.
+===> Processing: 43 || Timer: 0.3429 sec.
+PSNR: 31.501674 dB, 	SSIM: 0.931998
+===> Timer: 0.2235 sec.
+===> Processing: 44 || Timer: 0.3415 sec.
+PSNR: 31.649561 dB, 	SSIM: 0.933388
+===> Timer: 0.2233 sec.
+===> Processing: 45 || Timer: 0.3380 sec.
+PSNR: 31.610817 dB, 	SSIM: 0.933599
+===> Timer: 0.2227 sec.
+===> Processing: 46 || Timer: 0.3422 sec.
+PSNR: 31.189087 dB, 	SSIM: 0.928434
+===> Timer: 0.2232 sec.
+===> Processing: 47 || Timer: 0.3423 sec.
+PSNR: 30.427067 dB, 	SSIM: 0.920431
+===>walk PSNR = 30.954988286173457
+===>walk SSIM = 0.9171544884427719
+==> Average PSNR = 27.639978
+==> Average SSIM = 0.841908
