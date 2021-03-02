@@ -14,8 +14,10 @@ python main.py
 ```
 
 ### Test
+```
 cd code
 unzip TGA-without-align-dla.zip
+```
 We utilize 1 P100 GPU for testing.
 Test the trained model with best performance by
 ```
